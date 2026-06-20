@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Jeen 👋
 
-<!--
-**jeenpn/jeenpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning and building websites using:
 
-Here are some ideas to get you started:
+* HTML
+* CSS
+* JavaScript
+* Eleventy (11ty)
+* Nunjucks
+* Node.js
+* Git and GitHub
+* AI-assisted development using ChatGPT and DeepSeek
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+
+### JeenBake Website
+
+A static website built with Eleventy featuring:
+
+* Blog pages
+* Portfolio pages
+* Contact functionality
+* SEO-friendly structure
+* Responsive design
+
+Repository:
+
+https://github.com/jeenpn/jeenbake-eleventy-learning
+
+## Additional Interests
+
+* Technical writing
+* Documentation
+* E-learning content development
+* Knowledge management
+* AI-assisted workflows
+
+## Currently Learning
+
+* Open-source contribution
+* GitHub collaboration
+* Documentation improvement
+* Building projects with AI assistance
+
+## Goal
+
+Contribute to open source and earn through bounties and remote opportunities.
