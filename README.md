@@ -11,11 +11,13 @@ I'm learning and building websites using:
 * Git and GitHub
 * AI-assisted development using ChatGPT and DeepSeek
 
-## Current Project
+## Projects
 
 ### JeenBake Website
 
-A static website built with Eleventy featuring:
+Static website built with Eleventy, Nunjucks, HTML, CSS and JavaScript.
+
+Features:
 
 * Blog pages
 * Portfolio pages
@@ -26,6 +28,21 @@ A static website built with Eleventy featuring:
 Repository:
 
 https://github.com/jeenpn/jeenbake-eleventy-learning
+
+---
+
+### Resume Website
+
+Personal resume website built with HTML and CSS.
+
+Features:
+
+* Resume page
+* Professional profile
+* Cover letter page
+* Responsive layout
+
+(Repository coming soon)
 
 ## Additional Interests
 
